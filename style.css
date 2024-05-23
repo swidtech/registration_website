@@ -38,6 +38,7 @@
     background-color: #e4e4e4;
     border-radius: 5px;
     transform: translateY(10px);
+    transition: 0.5s;
 }
 
 .navbar a:hover::after {
